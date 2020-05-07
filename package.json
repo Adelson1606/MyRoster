@@ -17,5 +17,13 @@
     "urllib": "^2.34.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adelson1606/MyRoster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adelson1606/MyRoster/issues"
+  },
+  "homepage": "https://github.com/Adelson1606/MyRoster#readme",
   "description": ""
 }
